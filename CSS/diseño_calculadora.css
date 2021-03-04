@@ -73,6 +73,17 @@ html, body{
     color: black;
 }
 
+#result{
+    background-color: rgb(184, 182, 182);
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    padding: auto;
+    padding: 2px;
+    border-bottom: 1px black solid;
+    border-radius: 5px;
+}
+
 #number2{
     margin-top: 2em;
 }
